@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @WwChasewW
 - 👀 I’m interested in python, Lua, Html, Css and JavaScript
-- 🌱 I’m currently learning Python, Html, Css (Soon Java Script)
 - 📫 Reach me in dc @wwchaseww
 - 😄 Pronouns: he/him/table
 - ⚡ Fun fact: Why do programmers prefer dark mode?  Because light attracts bugs!
